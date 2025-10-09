@@ -42,7 +42,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/Graph-Algorithm-Visualization-Tool.git
+git clone https://github.com/aka-sh-singh/Graph-Algorithm-Visualization-Tool.git
 
 # 2️⃣ Navigate into the project folder
 cd Graph-Algorithm-Visualization-Tool
@@ -61,33 +61,11 @@ http://localhost:5173/
 
 ---
 
-## 🖼️ Screenshots (Add your own later)
 
-> 📌 *You can include real screenshots here once the project UI is ready.*
-
-| Graph Editor | Dijkstra Visualization | BFS in Action |
-|---------------|------------------------|----------------|
-| ![Graph Editor](assets/editor.png) | ![Dijkstra](assets/dijkstra.png) | ![BFS](assets/bfs.png) |
 
 ---
 
-## 📂 Project Structure
 
-```
-Graph-Algorithm-Visualization-Tool/
-├── src/
-│   ├── components/       # Reusable UI components
-│   ├── algorithms/       # Dijkstra, BFS implementations
-│   ├── utils/            # Helper functions
-│   ├── pages/            # Main visualization page
-│   ├── App.jsx
-│   └── main.jsx
-├── public/               # Static assets
-├── package.json
-└── vite.config.js
-```
-
----
 
 ## 🧑‍💻 How It Works
 
